@@ -244,12 +244,8 @@ url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emotico
 html = https://raw.githubusercontent.com/psi-im/contentdownloader/master/iconsets/emoticons/NotoColorEmoji.html
 
 [iconsets/emoticons]
-name = Satrap + Joypixels
-url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Satrap_joypixels.jisp
-
-[iconsets/emoticons]
-name = Satrap + Joypixels Animated
-url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/Satrap_joypixels_part_animated.jisp
+name = satrap_emojis
+url = https://raw.githubusercontent.com/psi-im/resources/master/iconsets/emoticons/satrap_emojis.jisp
 
 [iconsets/emoticons]
 name = ShinyIcons
